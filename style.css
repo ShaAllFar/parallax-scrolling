@@ -1,0 +1,20 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-image: url('../images/shawnnicpic.jpg');
+  background-size: cover;
+  width: 100%;
+}
+#parallax-layer{
+  position: fixed;
+  width: 100%;
+  font-size: 50px;
+  height: 710px;
+}
+#content{
+  color:white;
+  font-size: 50px;
+}
